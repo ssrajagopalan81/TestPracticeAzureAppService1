@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TestPracticeNetCoreWebApp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2AA18BD63C14620A6D1B05282885B05 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED1996DA0BE841359111EDD53BF4CB4E }}
           package: .
